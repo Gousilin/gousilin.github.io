@@ -150,16 +150,22 @@ body {
     align-items: center;
     padding: 2rem 0;
     position: relative;
+    
 }
 
 .gap {
     padding-bottom: 2rem;
 }
+
 .about-me-contents {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
     color: #F1F8FD;
+}
+
+.experience-gap {
+    padding-left: 30px;
 }
 
 .experience-contents,
@@ -169,6 +175,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
     color: #F1F8FD;
+    padding-left: 30px;
 }
 
 .exp-company-name,
