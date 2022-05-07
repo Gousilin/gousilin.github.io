@@ -136,8 +136,8 @@ body {
 }
 
 
-.right-section-contents {
-    padding: 2rem 2rem;
+.right-section-contents .about-me-contents{
+    padding: 0rem 2rem;
 }
 
 .right-title {
@@ -150,7 +150,7 @@ body {
     align-items: center;
     padding: 2rem 0;
     position: relative;
-    
+    padding-left: 25px;
 }
 
 .gap {
